@@ -9,7 +9,7 @@ export function TitleImage() {
                 <Title pt="30px" pb="10px" fw="400"  order={2}>Sammy Falvey</Title>
                 <Title fw="400" order={3}>May 5, 2025</Title>
             </Stack>
-            <Image w = "59%" src='src/assets/trump_drill_baby_drill.jpeg'/>
+            <Image w = "59%" src='./assets/trump_drill_baby_drill.jpeg'/>
         </Group>
     </div>;
   
