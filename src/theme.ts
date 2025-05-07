@@ -3,10 +3,10 @@ import { createTheme } from "@mantine/core";
 export const theme = createTheme({
   fontFamily: "Playfair",
   fontSizes: {
-    xs: "20px",
-    sm: "22px",
-    md: "24px",
-    lg: "28px",
+    xs: "16px",
+    sm: "18px",
+    md: "20px",
+    lg: "24px",
     xl: "32px",
   },
   headings: {
