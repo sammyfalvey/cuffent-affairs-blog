@@ -1,5 +1,5 @@
 import "@mantine/core/styles.css";
-import { AppShell, MantineProvider, Image, Group, Text, Button, Burger } from "@mantine/core";
+import { AppShell, MantineProvider, Image, Group, Button, Burger } from "@mantine/core";
 import { theme } from "./theme";
 import { useHeadroom, useMediaQuery } from "@mantine/hooks";
 import Main from "./Mainpage";
